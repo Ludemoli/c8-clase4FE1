@@ -1,0 +1,18 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,600;1,700&display=swap');
+</style>
+p {
+    color: red;
+}
+.title {
+    font-size: 40px;
+    font-weight: normal;
+}
+/* esto lo uso para dejar comentarios en css pero no aparecen en ningun lado */
+#noticias{
+    background-color: aqua;
+    text-align: center;
+}
+body {
+    font-family: "Poppins", sans-serif;
+}
